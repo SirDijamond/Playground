@@ -202,8 +202,6 @@ function dragstarted(d) {
     simulation.alphaTarget(0.1).restart();
   }
   // 
-  d.fx = d.x;
-  d.fy = d.y;
 }
 
 function dragged(d) {
