@@ -1,0 +1,106 @@
+<html lang="de">
+  <head>
+    <script>
+      var isMobile = {
+        Android: function() {
+          return navigator.userAgent.match(/Android/i);
+        },
+        BlackBerry: function() {
+          return navigator.userAgent.match(/BlackBerry/i);
+        },
+        iOS: function() {
+          return navigator.userAgent.match(/iPhone|iPad|iPod/i);
+        },
+        Opera: function() {
+          return navigator.userAgent.match(/Opera Mini/i);
+        },
+        Windows: function() {
+          return navigator.userAgent.match(/IEMobile/i);
+        },
+        any: function() {
+          return (
+            isMobile.Android() ||
+            isMobile.BlackBerry() ||
+            isMobile.iOS() ||
+            isMobile.Opera() ||
+            isMobile.Windows()
+          );
+        }
+      };
+      if (isMobile.any()) {
+        alert(
+          "Diese Seite wurde nicht primär für mobile Geräte erstellt und funktioniert auf Ihrem Gerät deshalb möglicherweise nicht komplett akkurat. Empfohlen wird empfohlen, dass Sie auf ein Desktop Gerät wechseln."
+        );
+      }
+    </script>
+    <link rel="stylesheet" href="global.css" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>D3 Praktikum-Archiv</title>
+  </head>
+  <body>
+    <div class="header">
+      Playground - the real one
+    </div>
+    <h1>Archiv/D3 Praktikum</h1>
+    <p>Herzlich willkommen auf dieser fabulösen Seite.</p>
+    <p>
+      <b>
+        Folgende Projekte gibt es in diesem Archivverzeichnis zu finden:
+        (antichronologische Reihenfolge)</b
+      ><br />
+    </p>
+
+    <table>
+      <tr>
+        <td>
+          <a href="Force Network Supreme 2.0" target="_blank"
+            >"Force Network Supreme"-Projekt, interaktive
+            Netzwerkvisualisierung</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="Interactive_new" target="_blank"
+            >Interaktive Hierarchie (Automatisches erstellen einer interaktiven
+            Hierarchie mit D3.js)</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="Götter" target="_blank"
+            >"Götter"-Projekt (Automatisches erstellen einer Hierarchie mit
+            D3.js)</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="Blocks" target="_blank"
+            >"Blocks"-Projekt (Grundlagen des Frameworks D3.js)</a
+          >
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="peace" target="_blank">"Peace"-Projekt (SVG-Zeichnen)</a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="flipFlop" target="_blank"
+            >"FlipFlop"-Projekt (JavaScript Grundlagen)</a
+          >
+        </td>
+      </tr>
+    </table>
+
+    <p>
+      Notiz: Falls eine dieser Seiten zu groß oder zu klein für Ihr Gerät sein
+      sollte, verwenden Sie die Tastenkombination Strg+MINUS bzw. Strg+PLUS
+    </p>
+  </body>
+</html>

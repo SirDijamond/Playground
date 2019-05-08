@@ -1,0 +1,26 @@
+.cool_svg {
+  background-color: rgba(30, 144, 255, 50%);
+  transition: background-color 2s, transform 360000s linear,
+    border-radius 2s linear;
+  border-radius: 0.5%;
+}
+.cool_svg:hover {
+  background-color: rgba(44, 47, 51, 100);
+  transform: rotate(36000000deg);
+  border-radius: 50%;
+}
+.line {
+  stroke: red;
+  fill: green;
+  stroke-width: 4px;
+}
+circle {
+  stroke: red;
+  fill: rgba(255, 0, 0, 0);
+  stroke-width: 4px;
+  transition: fill 2s linear;
+  border-width: 20px;
+}
+circle:hover {
+  fill: rgba(26, 76, 214, 0.5);
+}

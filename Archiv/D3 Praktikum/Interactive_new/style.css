@@ -1,0 +1,23 @@
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 3px;
+  opacity: 1;
+}
+.node text {
+  font: 12px sans-serif;
+  fill-opacity: 0;
+}
+.node text:hover {
+  fill: blue;
+  text-decoration: underline;
+}
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 2px;
+}
+a:hover {
+  background-color: white;
+  fill: white;
+}

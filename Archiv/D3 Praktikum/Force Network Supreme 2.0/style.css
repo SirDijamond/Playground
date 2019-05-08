@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.node circle {
+  stroke: rgb(27, 109, 204);
+  fill: rgba(255, 255, 255, 0.5);
+  stroke-width: 1.5px;
+}
+
+.link {
+  fill: none;
+  stroke: rgba(132, 182, 206, 0.699);
+}
+
+#info,
+#info>a,
+span {
+  font-family: "Inconsolata", monospace;
+}
+
+#title {
+  color: black;
+  text-decoration: underline;
+  text-decoration-color: dodgerblue;
+
+  transition: color 1s linear;
+}
+
+#title:active {
+  text-decoration: underline;
+  color: dodgerblue;
+  text-decoration-color: dodgerblue;
+}

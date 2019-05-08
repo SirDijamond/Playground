@@ -1,0 +1,22 @@
+.block {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(10, 186, 255);
+  display: inline-block;
+  margin-right: 2%;
+  margin-top: 4%;
+  border-radius: 12%;
+  opacity: 1;
+  transition: background-color 0.5s, transform 0.5s, width 0.5s, height 0.5s;
+}
+.block:hover {
+  background-color: red;
+}
+.button {
+  border-radius: 20%;
+  transition: background-color 2s, border-radius 2s;
+}
+.button:hover {
+  background-color: red;
+  border-radius: 40%;
+}

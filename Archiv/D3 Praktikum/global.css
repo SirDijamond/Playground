@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Righteous");
+@import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+.header {
+  background-color: rgba(44, 47, 51, 1);
+  width: 100%;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: floralwhite;
+  padding: 20px 10px;
+  font-size: 20pt;
+}
+.header > button {
+  border-radius: 12%;
+  border-color: white;
+  font-family: "Indie Flower", cursive;
+  font-size: 50%;
+  position: absolute;
+  padding: 0.75%;
+  color: white;
+}
+.home {
+  background-color: rgb(0, 100, 250);
+}
+.menu_button {
+  background-color: rgb(14, 1, 36);
+}
+h1 {
+  font-family: "Righteous", cursive;
+  border-bottom: 1px solid rgb(172, 195, 197);
+}
