@@ -1,249 +1,232 @@
 {
   "information": {
     "graphic_type": "Nachbarländer der europäischen Staaten",
-    "creator": "Sir Dijamond",
+    "creator": "Kevin-Sören",
     "reference": "https://de.wikipedia.org/wiki/Liste_europ%C3%A4ischer_Nachbarstaaten",
-    "date": "09.05.2019",
-    "usage": "Bewegen Sie die Maus auf ein Objekt um seine Verbindungen anzuzeigen.<br/>Verschieben Sie Objekte, indem Sie sie mit der Maus anklicken und ziehen.<br/>Öffnen Sie das Aktionsmenü für ein Objekt mit der sekundären Maustaste."
+    "date": "08.05.2019",
+    "usage": "Bewegen Sie die Maus auf ein Objekt um seine Verbindungen anzuzeigen.<br/>Verschieben Sie Objekte, indem Sie sie mit der Maus anklicken und ziehen."
   },
-  "nodes": [
-    {
+  "nodes": [{
       "name": "Albanien",
-      "id": "Albanien",
-      "code": "AL - Codes implemented for future version"
+      "id": "Albanien"
     },
     {
       "name": "Andorra",
-      "id": "Andorra",
-      "code": "AD"
+      "id": "Andorra"
     },
     {
       "name": "Belgien",
-      "id": "Belgien",
-      "code": "BE"
+      "id": "Belgien"
     },
     {
       "name": "Bosnien und Herzegowina",
-      "id": "Bosnien und Herzegowina",
-      "code": "BA"
+      "id": "Bosnien und Herzegowina"
     },
     {
       "name": "Bulgarien",
-      "id": "Bulgarien",
-      "code": "BG"
+      "id": "Bulgarien"
     },
     {
       "name": "Dänemark",
-      "id": "Dänemark",
-      "code": "DK"
+      "id": "Dänemark"
     },
     {
       "name": "Deutschland",
-      "id": "Deutschland",
-      "code": "DE"
+      "id": "Deutschland"
     },
     {
       "name": "Estland",
-      "id": "Estland",
-      "code": "EE"
+      "id": "Estland"
     },
     {
       "name": "Finnland",
-      "id": "Finnland",
-      "code": "FI"
+      "id": "Finnland"
     },
     {
       "name": "Frankreich",
-      "id": "Frankreich",
-      "code": "FR"
+      "id": "Frankreich"
     },
     {
       "name": "Griechenland",
-      "id": "Griechenland",
-      "code": "GR"
+      "id": "Griechenland"
     },
     {
       "name": "Irland",
-      "id": "Irland",
-      "code": "IE"
+      "id": "Irland"
     },
     {
       "name": "Island",
-      "id": "Island",
-      "code": "IS"
+      "id": "Island"
     },
     {
       "name": "Italien",
-      "id": "Italien",
-      "code": "IT"
+      "id": "Italien"
     },
     {
       "name": "Kosovo",
-      "id": "Kosovo",
-      "code": "XK"
+      "id": "Kosovo"
     },
     {
       "name": "Kroatien",
-      "id": "Kroatien",
-      "code": "HR"
+      "id": "Kroatien"
     },
     {
       "name": "Lettland",
-      "id": "Lettland",
-      "code": "LV"
+      "id": "Lettland"
     },
     {
       "name": "Liechtenstein",
-      "id": "Liechtenstein",
-      "code": "LI"
+      "id": "Liechtenstein"
     },
     {
       "name": "Litauen",
-      "id": "Litauen",
-      "code": "LT"
+      "id": "Litauen"
     },
     {
       "name": "Luxemburg",
-      "id": "Luxemburg",
-      "code": "LU"
+      "id": "Luxemburg"
     },
     {
       "name": "Nordmazedonien",
-      "id": "Nordmazedonien",
-      "code": "MK"
+      "id": "Nordmazedonien"
     },
     {
       "name": "Malta",
-      "id": "Malta",
-      "code": "MT"
+      "id": "Malta"
     },
     {
       "name": "Moldau",
-      "id": "Moldawien",
-      "code": "MD"
+      "id": "Moldau"
     },
     {
       "name": "Monaco",
-      "id": "Monaco",
-      "code": "MC"
+      "id": "Monaco"
     },
     {
       "name": "Montenegro",
-      "id": "Montenegro",
-      "code": "ME"
+      "id": "Montenegro"
     },
     {
       "name": "Niederlande",
-      "id": "Niederlande",
-      "code": "NL"
+      "id": "Niederlande"
     },
     {
       "name": "Norwegen",
-      "id": "Norwegen",
-      "code": "NO"
+      "id": "Norwegen"
     },
     {
       "name": "Österreich",
-      "id": "Österreich",
-      "code": "AT"
+      "id": "Österreich"
     },
     {
       "name": "Polen",
-      "id": "Polen",
-      "code": "PL"
+      "id": "Polen"
     },
     {
       "name": "Portugal",
-      "id": "Portugal",
-      "code": "PT"
+      "id": "Portugal"
     },
     {
       "name": "Rumänien",
-      "id": "Rumänien",
-      "code": "RO"
+      "id": "Rumänien"
     },
     {
       "name": "Russland",
-      "id": "Russland",
-      "code": "RU"
+      "id": "Russland"
     },
     {
       "name": "San Marino",
-      "id": "San Marino",
-      "code": "SM"
+      "id": "San Marino"
     },
     {
       "name": "Schweden",
-      "id": "Schweden",
-      "code": "SE"
+      "id": "Schweden"
     },
     {
       "name": "Schweiz",
-      "id": "Schweiz",
-      "code": "CH"
+      "id": "Schweiz"
     },
     {
       "name": "Serbien",
-      "id": "Serbien",
-      "code": "RS"
+      "id": "Serbien"
     },
     {
       "name": "Slowakei",
-      "id": "Slowakei",
-      "code": "SK"
+      "id": "Slowakei"
     },
     {
       "name": "Slowenien",
-      "id": "Slowenien",
-      "code": "SI"
+      "id": "Slowenien"
     },
     {
       "name": "Spanien",
-      "id": "Spanien",
-      "code": "ES"
+      "id": "Spanien"
     },
     {
       "name": "Tschechien",
-      "id": "Tschechien",
-      "code": "CZ"
+      "id": "Tschechien"
     },
     {
       "name": "Türkei",
-      "id": "Türkei",
-      "code": "TR"
+      "id": "Türkei"
     },
     {
       "name": "Ukraine",
-      "id": "Ukraine",
-      "code": "UA"
+      "id": "Ukraine"
     },
     {
       "name": "Ungarn",
-      "id": "Ungarn",
-      "code": "HU"
+      "id": "Ungarn"
     },
     {
       "name": "Vatikanstadt",
-      "id": "Vatikanstadt",
-      "code": "VA"
+      "id": "Vatikanstadt"
     },
     {
       "name": "Vereinigtes Königreich",
-      "id": "Vereinigtes Königreich",
-      "code": "GB"
+      "id": "Vereinigtes Königreich"
     },
     {
       "name": "Weißrussland",
-      "id": "Weißrussland",
-      "code": "BY"
+      "id": "Weißrussland"
     },
     {
       "name": "Zypern",
-      "id": "Zypern",
-      "code": "CY"
+      "id": "Zypern"
     }
   ],
-  "links": [
+  "links": [{
+      "source": "Ukraine",
+      "target": "Polen"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Rumänien"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Russland"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Slowakei"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Ungarn"
+    },
+    {
+      "source": "Ukraine",
+      "target": "Weißrussland"
+    },
+    {
+      "source": "Ungarn",
+      "target": "Kroatien"
+    },
+    {
+      "source": "Ungarn",
+      "target": "Österreich"
+    },
     {
       "source": "Albanien",
       "target": "Griechenland"
@@ -264,6 +247,7 @@
       "source": "Andorra",
       "target": "Frankreich"
     },
+
     {
       "source": "Belgien",
       "target": "Deutschland"
@@ -876,38 +860,7 @@
       "source": "Ukraine",
       "target": "Moldau"
     },
-    {
-      "source": "Ukraine",
-      "target": "Polen"
-    },
-    {
-      "source": "Ukraine",
-      "target": "Rumänien"
-    },
-    {
-      "source": "Ukraine",
-      "target": "Russland"
-    },
-    {
-      "source": "Ukraine",
-      "target": "Slowakei"
-    },
-    {
-      "source": "Ukraine",
-      "target": "Ungarn"
-    },
-    {
-      "source": "Ukraine",
-      "target": "Weißrussland"
-    },
-    {
-      "source": "Ungarn",
-      "target": "Kroatien"
-    },
-    {
-      "source": "Ungarn",
-      "target": "Österreich"
-    },
+
     {
       "source": "Ungarn",
       "target": "Rumänien"

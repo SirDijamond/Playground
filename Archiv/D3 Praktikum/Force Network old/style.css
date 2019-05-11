@@ -25,33 +25,12 @@ span {
   color: black;
   text-decoration: underline;
   text-decoration-color: dodgerblue;
+
+  transition: color 1s linear;
 }
 
-#title:visited {
-  color: black;
-  text-decoration: underline;
-  text-decoration-color: blueviolet;
-}
-
-#title:visited:hover {
-  text-decoration: underline;
-  color: blueviolet;
-  text-decoration-color: blueviolet;
-}
-
-#title:hover {
+#title:active {
   text-decoration: underline;
   color: dodgerblue;
   text-decoration-color: dodgerblue;
-}
-
-
-
-svg {
-  display: block;
-  margin: auto;
-}
-
-select {
-  position: absolute;
 }
